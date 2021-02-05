@@ -1,0 +1,1 @@
+05.02.2021 14:12:56 - calc_salary - args: ((None,), {}) res: None 
